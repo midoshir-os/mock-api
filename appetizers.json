@@ -5,37 +5,17 @@
       "name": "Test Appetizer",
       "description": "This is the description for my appetizer. It’s yummy.",
       "price": 9.99,
-      "imageURL": "https://images.unsplash.com/photo-1543353071-087092ec3939?auto=format&fit=crop&w=800&q=80",
+      "imageURL": "https://images.pexels.com/photos/14359018/pexels-photo-14359018.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 99,
       "protein": 99,
       "carbs": 99
-    },
-    {
-      "id": 2,
-      "name": "Spicy Chicken Bites",
-      "description": "Crispy, spicy chicken served with our signature dipping sauce.",
-      "price": 12.49,
-      "imageURL": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-      "calories": 420,
-      "protein": 32,
-      "carbs": 25
-    },
-    {
-      "id": 3,
-      "name": "Garlic Shrimp",
-      "description": "Juicy shrimp sautéed in garlic butter and herbs.",
-      "price": 14.99,
-      "imageURL": "https://images.unsplash.com/photo-1553621042-f6e147245754?auto=format&fit=crop&w=800&q=80",
-      "calories": 310,
-      "protein": 40,
-      "carbs": 10
     },
     {
       "id": 4,
       "name": "Cheesy Nachos",
       "description": "Crunchy nachos topped with melted cheese and jalapeños.",
       "price": 8.49,
-      "imageURL": "https://images.pexels.com/photos/4611984/pexels-photo-4611984.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "imageURL": "https://images.pexels.com/photos/4624661/pexels-photo-4624661.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 580,
       "protein": 18,
       "carbs": 65
@@ -45,7 +25,7 @@
       "name": "Vegan Buddha Bowl",
       "description": "Colourful veggies, quinoa, and chickpeas in a light lemon‑tahini dressing.",
       "price": 11.50,
-      "imageURL": "https://images.unsplash.com/photo-1556911220-e15b29be8c28?auto=format&fit=crop&w=800&q=80",
+      "imageURL": "https://images.pexels.com/photos/1640773/pexels-photo-1640773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 350,
       "protein": 15,
       "carbs": 45
@@ -55,7 +35,7 @@
       "name": "Teriyaki Salmon",
       "description": "Grilled salmon glazed in teriyaki sauce, served with steamed greens.",
       "price": 16.75,
-      "imageURL": "https://images.pexels.com/photos/4611988/pexels-photo-4611988.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "imageURL": "https://images.pexels.com/photos/775031/pexels-photo-775031.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 460,
       "protein": 35,
       "carbs": 12
@@ -65,7 +45,7 @@
       "name": "Mushroom Risotto",
       "description": "Creamy Arborio rice with wild mushrooms, parmesan and fresh herbs.",
       "price": 13.90,
-      "imageURL": "https://images.unsplash.com/photo-1542444459-4f8e6c3a02d8?auto=format&fit=crop&w=800&q=80",
+      "imageURL": "https://images.pexels.com/photos/1430095/pexels-photo-1430095.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 520,
       "protein": 12,
       "carbs": 60
@@ -75,27 +55,17 @@
       "name": "Beef Tacos",
       "description": "Soft corn tortillas filled with seasoned beef, fresh salsa and guacamole.",
       "price": 10.99,
-      "imageURL": "https://images.pexels.com/photos/4611982/pexels-photo-4611982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "imageURL": "https://images.pexels.com/photos/4611980/pexels-photo-4611980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 550,
       "protein": 28,
       "carbs": 48
-    },
-    {
-      "id": 9,
-      "name": "Greek Salad",
-      "description": "Crisp vegetables with feta, olives and a zesty oregano‑olive oil dressing.",
-      "price": 9.25,
-      "imageURL": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?auto=format&fit=crop&w=800&q=80",
-      "calories": 260,
-      "protein": 8,
-      "carbs": 18
     },
     {
       "id": 10,
       "name": "Chocolate Lava Cake",
       "description": "Warm chocolate cake with a gooey lava centre, served with vanilla ice‑cream.",
       "price": 6.75,
-      "imageURL": "https://images.pexels.com/photos/4611978/pexels-photo-4611978.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "imageURL": "https://images.pexels.com/photos/4109992/pexels-photo-4109992.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
       "calories": 430,
       "protein": 6,
       "carbs": 48
