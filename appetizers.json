@@ -2,10 +2,10 @@
   "request": [
     {
       "id": 1,
-      "name": "Test Appetizer",
-      "description": "This is the description for my appetizer. It’s yummy.",
+      "name": "Meat Steak",
+      "description": "This is the Steak for my appetizer. It’s yummy.",
       "price": 9.99,
-      "imageURL": "https://images.pexels.com/photos/14359018/pexels-photo-14359018.jpeg?auto=compress&cs=tinysrgb&h=600&w=800",
+      "imageURL": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?_gl=1*1tina32*_ga*NDUzMjUzNTkxLjE3NjI2OTc2MTE.*_ga_8JE65Q40S6*czE3NjMyOTkxMzkkbzMkZzEkdDE3NjMyOTkxNjIkajM3JGwwJGgw",
       "calories": 99,
       "protein": 99,
       "carbs": 99
@@ -35,7 +35,7 @@
       "name": "Cheesy Nachos",
       "description": "Crunchy nachos topped with melted cheese and jalapeños.",
       "price": 8.49,
-      "imageURL": "https://images.pexels.com/photos/4624661/pexels-photo-4624661.jpeg?auto=compress&cs=tinysrgb&h=600&w=800",
+      "imageURL": "https://www.spendwithpennies.com/wp-content/uploads/2022/02/Easy-Homemade-Nachos-SpendWithPennies-7.jpg",
       "calories": 580,
       "protein": 18,
       "carbs": 65
@@ -76,7 +76,7 @@
       "name": "Beef Tacos",
       "description": "Soft corn tortillas filled with seasoned beef, fresh salsa and guacamole.",
       "price": 10.99,
-      "imageURL": "https://images.pexels.com/photos/4611980/pexels-photo-4611980.jpeg?auto=compress&cs=tinysrgb&h=600&w=800",
+      "imageURL": "https://feelgoodfoodie.net/wp-content/uploads/2017/04/Ground-Beef-Tacos-9.jpg",
       "calories": 550,
       "protein": 28,
       "carbs": 48
@@ -96,7 +96,7 @@
       "name": "Chocolate Lava Cake",
       "description": "Warm chocolate cake with a gooey lava centre, served with vanilla ice‑cream.",
       "price": 6.75,
-      "imageURL": "https://images.pexels.com/photos/4109992/pexels-photo-4109992.jpeg?auto=compress&cs=tinysrgb&h=600&w=800",
+      "imageURL": "https://www.recipetineats.com/tachyon/2021/02/Chocolate-Lava-Cake_7.jpg?resize=900%2C1260&zoom=1",
       "calories": 430,
       "protein": 6,
       "carbs": 48
